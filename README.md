@@ -20,7 +20,8 @@
   
   ## Usage
   
-  Usage is simple. Just run the code in node and it will prompt you through the template. the finished readme file will populate in the develop folder
+  Usage is simple. Just run the code in node and it will prompt you through the template. the finished readme file will populate in the develop folder.
+  https://drive.google.com/file/d/1WTSHN8jAW4hV0MzUuJHLFY8Ih3_UanEh/view
   
   ## License
   no licenses that I'm aware of should be on this project

@@ -39,7 +39,7 @@ function generateMarkdown(data) {
   var license= renderLicenseBadge(data.license);
   var licenseMd = renderLicenseLink(license);
   return `
-  # # ${data.name}
+  ## ${data.name}
 
   ## Description
   
@@ -79,7 +79,7 @@ function generateMarkdown(data) {
   ${data.questions}
   email address: ${data.email}
 
-  [${data.github}'s gitub page](github.com/${data.github})
+  [${data.github}'s gitub page](https://github.com/${data.github})
 `;
 }
 
